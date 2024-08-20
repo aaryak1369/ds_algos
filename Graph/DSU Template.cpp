@@ -1,6 +1,10 @@
 // Practise Problems 
+// https://leetcode.com/problems/longest-consecutive-sequence/description/
+// https://leetcode.com/problems/surrounded-regions/description/
+// https://leetcode.com/problems/number-of-islands/description/
 // https://leetcode.com/problems/friend-circles/
 // https://leetcode.com/problems/redundant-connection/
+// https://leetcode.com/problems/minimize-malware-spread/description/
 // https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
 // https://leetcode.com/problems/number-of-operations-to-make-network-connected/
 // https://leetcode.com/problems/satisfiability-of-equality-equations/
